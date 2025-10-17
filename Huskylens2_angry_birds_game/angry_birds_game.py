@@ -632,10 +632,10 @@ class AngryBirdsGame:
         # Score panel background image
         self.score_bg_image = None
         try:
-            self.score_bg_image = pygame.image.load("得分区.png")
-            print("✅ Loaded score panel background image: 得分区.png")
+            self.score_bg_image = pygame.image.load("Scoring_Zone.png")
+            print("✅ Loaded score panel background image: Scoring_Zone.png")
         except pygame.error as e:
-            print(f"❌ Failed to load score panel background image 得分区.png: {e}")
+            print(f"❌ Failed to load score panel background image Scoring_Zone.png: {e}")
             self.score_bg_image = None
         
         # Animation state

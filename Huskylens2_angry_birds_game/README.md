@@ -90,7 +90,7 @@ Huskylens2_angry_birds_game/
 ├── background.png          # Game background image
 ├── bird.png               # Bird sprite
 ├── pig.png                # Pig sprite
-├── 得分区.png             # Score panel background
+├── Scoring_Zone.png             # Score panel background
 └── README.md              # This file
 ```
 
